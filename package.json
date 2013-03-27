@@ -1,0 +1,29 @@
+{
+  "name": "marcucci-elite",
+  "private": true,
+  "version": "0.0.1",
+  "description": "http://maruccielite.com/",
+  "author": "Bodhi5.com <cs@bodhi5.com>",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Bodhi5/marucci-elite.git"
+  },
+  "dependencies": {
+    "express":"3.0.5",
+    "mongoose":"3.5.2",
+    "nodemailer":"0.3.37",
+    "node-uuid":"1.4.0",
+    "node-promise":"0.5.4",
+    "colors":"0.6.0-1",
+    "useragent":"1.1.0",
+    "ejs":"0.8.3",
+    "request":"2.12.0",
+    "connect-mongoose":"0.0.2",
+    "ejs-locals":"1.0.2",
+    "authnet_cim":"0.2.0"
+  }
+}
